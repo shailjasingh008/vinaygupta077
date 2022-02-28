@@ -19,7 +19,7 @@ Also, I like spending time in nature capturing all the wonderful moments of beau
 
 - 🌱 I’m currently learning **Django, Flask, Tkinter, Numpy, MySql**
 
-- 👯 I’m looking to collaborate on **Front end and back end developers**
+- 👯 I’m looking to collaborate on **Front-end and Back-end developers**
 
 - 🤝 I’m looking for help with **Backend languages**
 
